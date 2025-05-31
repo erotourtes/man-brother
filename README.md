@@ -1,3 +1,7 @@
+```sh
+cd /tmp && wget https://raw.githubusercontent.com/erotourtes/man-brother/main/install.bash && bash ./install.bash
+```
+
 ```
                                                 *
  *                                                               *
@@ -33,3 +37,4 @@
                                %%%
                               %%%%%
                            .,%%%%%%%,. ,%%%%%%%%%%%%%%%%%%%
+```
