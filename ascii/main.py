@@ -200,7 +200,7 @@ def print_colored_stacktrace(trace: str):
 def print_colored_traceback():
     stacktrace = """
     java.lang.OverdoseException: Cannot invoke "Main.continue(). Waiting 20s..."
-        at com.main.a.method(Main.java:23)
+        at com.main.a.method(Main.java:03)
         at com.main.s.method(Main.java:06)
         at com.main.i.method(Main.java:2025)
         at sh.ascii.r.Sh.main(Sh.java:)
