@@ -10,5 +10,5 @@ cd man-brother
 ./start.bash
 
 cd ..
-echo "Removing this mess..."
+echo "Removing..."
 rm -rf ./man-brother
